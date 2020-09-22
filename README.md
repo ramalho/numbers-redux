@@ -11,7 +11,7 @@ Notes and experiments for a revamped numeric tower for Python > 3.8
 
 #### Mypy issue
 
-* (#3186—int is not a Number?)[https://github.com/python/mypy/issues/3186]
+* [#3186—int is not a Number?](https://github.com/python/mypy/issues/3186)
 
 ### Other languages
 
